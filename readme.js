@@ -1,1 +1,1 @@
-const fruitName = "apple"
+const fruitName = "mango"
