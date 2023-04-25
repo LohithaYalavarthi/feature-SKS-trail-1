@@ -2,8 +2,4 @@ const fruitName = "mango"
 
 const lastName = "Yalavarthi"
 
-const resolving = false
-
-const writing = true
-
-const local = false
+const gittest2 = false
