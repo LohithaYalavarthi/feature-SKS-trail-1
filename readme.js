@@ -11,5 +11,10 @@ const gittest3 = true
 
 const gittest4 = true
 
+<<<<<<< Updated upstream
 const gittest5 =  false
 
+=======
+const gittest5 = true
+const gittest6 = true
+>>>>>>> Stashed changes
